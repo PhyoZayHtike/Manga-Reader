@@ -85,7 +85,7 @@
         data : $data ,
         dataType : 'json' ,
      });
-     window.location.href = "/admin/account";
+     window.location.href = "/admin/account-management";
     });
   });
    </script>
