@@ -27,4 +27,8 @@ Before you begin, make sure you have the following installed:
 
    php artisan storage:link
 
+    for admin dashboard
+   **Email:** admin@gmail.com
+   **Password:** admin123
+
 
