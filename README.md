@@ -1,4 +1,8 @@
+![Screenshot 2023-11-21 233832](https://github.com/PhyoZayHtike/Manga-Reader/assets/143343820/983f5a86-74fc-4105-a825-ce0444194e40)
+
+![Screenshot 2023-11-21 234128](https://github.com/PhyoZayHtike/Manga-Reader/assets/143343820/a548812d-1578-4358-91a6-396ad4b4c242)
 # Manga Reader
+
 
 Manga Reader is a Laravel project that serves as an online manga reading platform. It includes a fresh database migration and seeding for quick setup. Additionally, it utilizes storage linking to ensure proper file handling.
 
